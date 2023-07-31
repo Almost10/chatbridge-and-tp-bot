@@ -1,0 +1,15 @@
+{
+  "login": {
+    "email": "",
+    "password": ""
+  },
+  "IP": "",
+  "token": "",
+  "webhook": {
+    "id": "",
+    "token": ""
+  },
+  "chat_channel": "",
+  "admins": ["discordID"],
+  "players": ["WhitelistedPeople"]
+}

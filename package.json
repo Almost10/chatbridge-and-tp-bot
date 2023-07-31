@@ -1,0 +1,17 @@
+{
+  "name": "configforproject",
+  "version": "0.0.1",
+  "description": "mineflayer bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "author": "almost",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "mineflayer": "^4.10.1",
+    "mineflayer-movement": "^0.4.4",
+    "mineflayer-pathfinder": "^2.4.4"
+  }
+}
