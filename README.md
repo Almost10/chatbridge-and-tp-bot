@@ -16,12 +16,12 @@ Use the following commands in your terminal to install the required Node.js pack
 Install mineflayer:
     
 
-``` npm install mineflayer```
+```npm install mineflayer```
 
  Install discord.js:
     
 
-``` npm install discord.js```
+```npm install discord.js```
 
 Install mineflayer-movement:
 
@@ -36,7 +36,7 @@ How to Use
 
 Launch the bot using the command:
 
-```bash
+```
 
 node index.js
 ```
