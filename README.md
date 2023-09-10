@@ -49,9 +49,9 @@ For admin functionality, add your Discord ID to the admin section in config.json
 Launch the bot using the command:
 
 ```
-
 node index.js
 ```
- The bot will now be connected to your Minecraft server and Discord channel.
- All normal players' messages from Discord will be displayed as "[Name] Player" on MineCraft.
- To use an admin command, simply type !hello or any other admin command, and the bot will execute it directly without showing the player's name.
+ 
+The bot will now be connected to your Minecraft server and Discord channel.
+All normal players' messages from Discord will be displayed as "[Name] Player" on MineCraft.
+To use an admin command, simply type !hello or any other admin command, and the bot will execute it directly without showing the player's name.
