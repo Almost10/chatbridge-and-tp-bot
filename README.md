@@ -37,12 +37,12 @@ Use the following commands in your terminal to install the required Node.js pack
 
 ``` npm install mineflayer-auto-eat ```
 
-##### Configuration
+# Configuration
 
 Fill in the necessary details in the config.json file, including your Minecraft account details, server IP, Discord token, Discord webhook ID, and the list of whitelisted players.
 For admin functionality, add your Discord ID to the admin section in config.json.
 
-##### How to Use
+# How to Use
 
 Launch the bot using the command:
 
