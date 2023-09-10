@@ -1,6 +1,6 @@
-# Minecraft Chatbridge and Whitelist TP Bot
+##### Minecraft Chatbridge and Whitelist TP Bot
 
-##### Introduction
+# Introduction
 
 This repository contains the code for a Minecraft chat bridge and whitelist teleportation bot. The bot acts as a bridge between Minecraft chat and Discord, allowing players to interact with each other across platforms. Additionally, it offers whitelist management and teleportation functionality for authorized users.
 Prerequisites
@@ -9,7 +9,7 @@ Before running the bot, ensure you have the following prerequisites installed:
 
 `Node.js: Make sure you have Node.js installed on your system.`
 
-##### Command Usage
+# Command Usage
 
 |||
 | ------------- | --------------- |
@@ -17,23 +17,23 @@ Before running the bot, ensure you have the following prerequisites installed:
 | `@@`   | Turn tpa whitelist off and on (in that instance only) |
 | `aspect`     | Makes blacklisted players not allowed to talk (in that instance only)    |
 
-##### Installation
+# Installation
 
 Use the following commands in your terminal to install the required Node.js packages:
 
-# Install mineflayer:
+##### Install mineflayer:
     
 ```npm install mineflayer```
 
-# Install discord.js:
+##### Install discord.js:
  
 ```npm install discord.js```
 
-# Install mineflayer-movement:
+##### Install mineflayer-movement:
 
 ``` npm install mineflayer-movement ```
 
-# Install mineflayer-auto-eat:
+##### Install mineflayer-auto-eat:
 
 ``` npm install mineflayer-auto-eat ```
 
