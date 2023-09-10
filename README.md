@@ -35,6 +35,10 @@ Install mineflayer-movement:
 
 ``` npm install mineflayer-movement ```
 
+Install mineflayer-auto-eat:
+
+``` npm install mineflayer-auto-eat ```
+
 ##### Configuration
 
 Fill in the necessary details in the config.json file, including your Minecraft account details, server IP, Discord token, Discord webhook ID, and the list of whitelisted players.
