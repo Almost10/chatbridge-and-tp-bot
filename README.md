@@ -1,4 +1,4 @@
-Minecraft Chatbridge and Whitelist TP Bot
+# Minecraft Chatbridge and Whitelist TP Bot
 
 ##### Introduction
 
@@ -7,7 +7,7 @@ Prerequisites
 
 Before running the bot, ensure you have the following prerequisites installed:
 
-Node.js: Make sure you have Node.js installed on your system.
+`Node.js: Make sure you have Node.js installed on your system.`
 
 ##### Command Usage
 
@@ -21,21 +21,19 @@ Node.js: Make sure you have Node.js installed on your system.
 
 Use the following commands in your terminal to install the required Node.js packages:
 
-Install mineflayer:
+# Install mineflayer:
     
-
 ```npm install mineflayer```
 
- Install discord.js:
-    
-
+# Install discord.js:
+ 
 ```npm install discord.js```
 
-Install mineflayer-movement:
+# Install mineflayer-movement:
 
 ``` npm install mineflayer-movement ```
 
-Install mineflayer-auto-eat:
+# Install mineflayer-auto-eat:
 
 ``` npm install mineflayer-auto-eat ```
 
